@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlyingOwOL
 - 👀 I’m interested in 1940's Germany
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Poland
 - 📫 How to reach me *Redacted*
 - 😄 Pronouns: *Redacted*
