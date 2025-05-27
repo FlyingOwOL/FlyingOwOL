@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 🌱 I learned C
 - 🌱 I’m currently a beginner in C++
-- 💞️ I’m looking to collaborate on Poland
+- 💞️ I'm looking for a energydrink sponsorship
 - 📫 How to reach me *Redacted*
 - 😄 Pronouns: *Redacted*
 - ⚡ Fun fact: *Redacted*
