@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlyingOwOL
-- 🌱 I’m currently learning Java
-- 🌱 I’m currently learning JavaScript
-- 🌱 I learned C
+- 🌱 I’m currently learning Java (Making GUI's)
+- 🌱 I’m beginner with JavaScript (with google app script API in Spreadsheets)
+- 🌱 I'm beginner with C (includes folder handling and file manipulation)
 - 🌱 I’m currently a beginner in C++
 - 💞️ I'm looking for a energydrink sponsorship
 - 📫 How to reach me *Redacted*
