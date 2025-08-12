@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43af129a-1667-4ded-928a-b84ee2c23f2a" />- 👋 Hi, I’m @FlyingOwOL
+- 👋 Hi, I’m @FlyingOwOL
 - 🌱 Will soon be learning Kotlin
 - 🌱 Will soon be learning Ruby on Rails
 - 🌱 Will soon be learning R
