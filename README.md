@@ -19,11 +19,11 @@
 - [Future Works](#future-works)
 
 # Commonly Used Languages
-- 🌳 I’m beginner with Java 
+- ### 🌳 I’m beginner with Java 
      - with GUI implementation 
      - MVC Architecture 
      - Standard Architecture 
-- 🌳 I’m beginner with JavaScript 
+- ### 🌳 I’m beginner with JavaScript 
      - with clasp && GoogleAppScript
      - basic webdev
         - Frontend development
