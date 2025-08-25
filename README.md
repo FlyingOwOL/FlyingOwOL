@@ -29,6 +29,7 @@
 - ### 🌳 I’m beginner with JavaScript 
      - with clasp && GoogleAppScript
      - basic webdev
+        - Standard Root Architecture
         - Frontend development
         - Backend development 
 
