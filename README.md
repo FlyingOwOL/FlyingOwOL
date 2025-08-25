@@ -11,11 +11,11 @@
 ```
 
 # Table of Contents
-- [Commonly Used Languages](#commonly-used-languages)
-- [DBMS Experience](#dbms-experience)
-- [Used Languages](#used-languages)
-- [In Progress](#current-progress)
-- [Future Works](#future-works)
+- ### [Commonly Used Languages](#commonly-used-languages)
+- ### [DBMS Experience](#dbms-experience)
+- ### [Used Languages](#used-languages)
+- ### [In Progress](#current-progress)
+- ### [Future Works](#future-works)
 
 # Commonly Used Languages
 - ### 🌳 I’m beginner with Java 
