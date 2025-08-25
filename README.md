@@ -11,11 +11,12 @@
 ```
 
 # Table of Contents
-- ### [Commonly Used Languages](#commonly-used-languages)
-- ### [DBMS Experience](#dbms-experience)
-- ### [Used Languages](#used-languages)
-- ### [In Progress](#in-progress)
-- ### [Future Works](#future-works)
+- [Commonly Used Languages](#commonly-used-languages)
+- [DBMS Experience](#dbms-experience)
+- [Future Works](#future-works)
+- [In Progress](#in-progress)
+- [Used Languages](#used-languages)
+
 
 
 
