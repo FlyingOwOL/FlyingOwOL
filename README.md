@@ -5,10 +5,9 @@
 - ⚡ Fun fact: *Redacted*
 
 ```
- 1. If it looks like shit, the design is ass. 
- 2. If it's vibe coded I'm killing you, then myself.
- 3. If I like your programming style I'm copying you, because you're better.
- 4. If I'm stuck with a problem, I'm going to sleep until the solution comes out.
+ 0. If it looks like shit, the design is ass. 
+ 1. If I like your programming style I'm copying you, because I accept you're better.
+ 2. If I'm stuck with a problem, I'm going to sleep until the solution comes out.
 ```
 
 # Table of Contents
