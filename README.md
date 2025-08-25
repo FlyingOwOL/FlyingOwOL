@@ -14,7 +14,7 @@
 - ### [Commonly Used Languages](#commonly-used-languages)
 - ### [DBMS Experience](#dbms-experience)
 - ### [Used Languages](#used-languages)
-- ### [In Progress](#current-progress)
+- ### [In Progress](#in-progress)
 - ### [Future Works](#future-works)
 
 
