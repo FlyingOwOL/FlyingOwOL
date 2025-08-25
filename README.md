@@ -54,9 +54,17 @@
 
 
 # Used Languages
-- 🌱 Java
-- 🌱 JavaScript
-- 🌱 I'm beginner with C (includes folder handling and file manipulation)
+- 🌳 Java
+     - with GUI implementation 
+     - MVC Architecture 
+     - Standard Architecture
+- 🌳 JavaScript
+     - with clasp && GoogleAppScript
+     - basic webdev
+        - Frontend development
+        - Backend development
+- 🌳 I'm beginner with C 
+     - includes folder handling and file manipulation
 - 🌱 I’m currently a beginner in C++
 
 
