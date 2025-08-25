@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FlyingOwOL
-- 💞️ I'm looking for a energydrink sponsorship ``please``
+- 💞️ I'm looking for a energydrink sponsorship **please**
 - 📫 How to reach me: *Redacted*
 - 😄 Pronouns: *Redacted*
 - ⚡ Fun fact: *Redacted*
@@ -11,14 +11,14 @@
  4. If I'm stuck with a problem, I'm going to sleep until the solution comes out.
 ```
 
-
+# Table of Contents
 - [Commonly Used Languages](#commonly-used-languages)
 - [DBMS Experience](#dbms-experience)
 - [Used Languages](#used-languages)
 - [In Progress](#current-progress)
 - [Future Works](#future-works)
 
-## Commonly Used Languages
+# Commonly Used Languages
 - 🌳 I’m beginner with Java 
      - with GUI implementation 
      - MVC Architecture 
@@ -30,11 +30,11 @@
         - Backend development 
 
 
-## DBMS Experience
+# DBMS Experience
 - 🌱 MySQL for Relational DBMS take it or leave it
 
 
-## Future Works
+# Future Works
 - 🌱 Will soon be learning Kotlin
 - 🌱 Will soon be learning Ruby on Rails
 - 🌱 Will soon be learning R
@@ -42,7 +42,7 @@
 - 🌱 Will soon be learning React Framework
 
 
-## In Progress 
+# In Progress 
 - 🌱 Portfolio website in the works
 - 🌱 I'm currently learning CSS (Will include bootstrap library)
 - 🌱 I'm finishing up with learning HTML
@@ -50,7 +50,7 @@
 - 🌱 Will soon be learning networking to work with servers
 
 
-## Used Languages
+# Used Languages
 - 🌱 Java
 - 🌱 JavaScript
 - 🌱 I'm beginner with C (includes folder handling and file manipulation)
