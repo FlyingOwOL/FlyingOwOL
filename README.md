@@ -36,6 +36,7 @@
 
 # DBMS Experience
 - 🌱 MySQL for Relational DBMS take it or leave it
+        - Practiced with SQL Island 
 
 
 # Future Works
