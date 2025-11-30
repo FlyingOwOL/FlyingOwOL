@@ -79,6 +79,7 @@
 # Skill Table
 - [Go back to Top](#table-of-contents) <br>
 This table is from chatGPT used to track my progress. It's not comments from actual people. <br>
+
 | Category                       | Level                 | AI comments                                                         |
 | ------------------------------ | --------------------- | ------------------------------------------------------------------- |
 | **JavaScript**                 | Early Intermediate    | architecture + API integrations                                     |
