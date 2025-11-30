@@ -77,6 +77,7 @@
 - 🌱 I'm currently making static games using HTML + CSS + JS. 
 
 # Skill Table
+This table is from chatGPT used to track my progress. It's not comments from actual people.
 | Category                       | Level                 | AI comments                                                         |
 | ------------------------------ | --------------------- | ------------------------------------------------------------------- |
 | **JavaScript**                 | Early Intermediate    | architecture + API integrations                                     |
