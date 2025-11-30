@@ -77,7 +77,7 @@
 - 🌱 I'm currently making static games using HTML + CSS + JS. 
 
 # Skill Table
-- [Go back to Top](#table-of-contents)
+- [Go back to Top](#table-of-contents) <br>
 This table is from chatGPT used to track my progress. It's not comments from actual people.
 | Category                       | Level                 | AI comments                                                         |
 | ------------------------------ | --------------------- | ------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ This table is from chatGPT used to track my progress. It's not comments from act
 | **Version Control**            | Early Intermediate    | Branching + multi-dev workflow                                      |
 | **DevOps & Networking**        | Beginner (future)     | haven’t learned it yet but it’s on your path                        |
 # Used Languages
-- [Go back to Top](#table-of-contents)
+- [Go back to Top](#table-of-contents) <br>
 - 🌳 Java
      - with GUI implementation 
      - Standard Architecture: 
@@ -130,7 +130,7 @@ This table is from chatGPT used to track my progress. It's not comments from act
 - 🌱 I’m currently a beginner in C++
      - Syntax + Logic
 # Summary
-- [Go back to Top](#table-of-contents)
+- [Go back to Top](#table-of-contents) <br>
 ### General: 
 Beginner at deciding what tech stack should be used for specific projects. Comfortable with larger projects that require multiple layers for frontend(HTML, CSS, or JavaFX) or backend (Data Transfer Objects, Data Access Objects, Service) and Resources folder for organization. As well as the painstaking task of built in test cases (test folder) 
 
