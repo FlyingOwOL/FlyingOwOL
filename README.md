@@ -48,6 +48,7 @@
 - 🌱 Will soon be learning MySQL DB setup with server setup && firewalls 
 - 🌱 Will soon be learning networking to work with servers
 - 🌱 Will be learning TailWind CSS library for designs
+- 🌱 Will soon be learning docker to deal with working with different OS (also to avoid "it works on my machine" talk)
 
 # In Progress 
 - 🌱 I'm currently making static games using HTML + CSS + JS. 
@@ -70,9 +71,9 @@
 - 🌱 I’m currently a beginner in C++
 
 # Summary
-Beginner at deciding what tech stack should be used for specific projects. Comfortable with larger projects that require multiple layers for frontend(HTML, CSS, or JavaFX) or backend (Data Transfer Objects, Data Access Objects, Service) and Resources folder for organization. Uses google app script to automate basic form inputs on google spreadsheets. Familiar with Google API services on Google App Script such as: SpreadSheets, DriveApp, DocumentApp, HTML webpages, and document reader/writers (PDF creation, JSON creation). Can understand code enough to refactor from multiple indentations and reducing to less indentations or creating functions to store repetitive logic (applying DRY - Don't Repeat Yourself).
+Beginner at deciding what tech stack should be used for specific projects. Comfortable with larger projects that require multiple layers for frontend(HTML, CSS, or JavaFX) or backend (Data Transfer Objects, Data Access Objects, Service) and Resources folder for organization. Uses Github branches for projects requiring multiple people (worked with max of 3 other people). Familiar with github version control to go back to previous working version of projects. Uses google app script to automate basic form inputs on google spreadsheets. Familiar with Google API services on Google App Script such as: SpreadSheets, DriveApp, DocumentApp, HTML webpages, and document reader/writers (PDF creation, JSON creation). Can understand code enough to refactor from multiple indentations and reducing to less indentations or creating functions to store repetitive logic (applying DRY - Don't Repeat Yourself).
 
-About AI Usage: Sometimes vibe codes (with supervision of AI's outputs). If learning a new language, will ask AI to retrieve the appropriate token/syntax or library that I need for a specific project or ask if previous logic from used languages will also apply to current PL. 
+About AI Usage: Sometimes vibe codes (with supervision of AI's outputs). If learning a new language, will ask AI to retrieve the appropriate token/syntax or library that I need for a specific project or ask if previous logic from used languages will also apply to current PL. Copy pastes this README to AI to inquire about current progress in programming skill. 
 
 <!---
 FlyingOwOL/FlyingOwOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
