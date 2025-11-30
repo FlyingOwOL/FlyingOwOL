@@ -15,6 +15,7 @@
 - [DBMS Experience](#dbms-experience)
 - [Future Works](#future-works)
 - [In Progress](#in-progress)
+- [Skill Table](#skill-table)
 - [Used Languages](#used-languages)
 - [Summary](#summary)
 
@@ -75,8 +76,18 @@
 # In Progress 
 - 🌱 I'm currently making static games using HTML + CSS + JS. 
 
-
-
+# Skill Table
+| Category                       | Level                 | AI comments                                                         |
+| ------------------------------ | --------------------- | ------------------------------------------------------------------- |
+| **JavaScript**                 | Early Intermediate    | architecture + API integrations                                     |
+| **Java**                       | Early Intermediate    | Good understanding of MVC, layers, GUIs, JDBC                       |
+| **SQL + JDBC**                 | Beginner–Intermediate | Real project usage, normalization is strong                         |
+| **C**                          | Beginner              | Syntax + file handling                                              |
+| **C++**                        | Beginner              | Early-stage syntax only                                             |
+| **Project Architecture**       | Intermediate          | Strongest area                                                      |
+| **Refactoring & Code Reading** | Early Intermediate    | confidence in cleaning up code                                      |
+| **Version Control**            | Early Intermediate    | Branching + multi-dev workflow                                      |
+| **DevOps & Networking**        | Beginner (future)     | haven’t learned it yet but it’s on your path                        |
 # Used Languages
 - 🌳 Java
      - with GUI implementation 
