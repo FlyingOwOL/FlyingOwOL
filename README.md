@@ -23,37 +23,35 @@
 
 
 # Commonly Used Languages
-- ### 🌳 I’m beginner with Java 
-     - with GUI implementation 
-     - Standard Architecture (w/ DTO, DAO, and service layers)
-     - MVC Architecture 
 - ### 🌳 I’m beginner with JavaScript 
      - with clasp && GoogleAppScript
      - basic webdev
         - Standard Root Architecture (w/ DTO, DAO, and service layers)
         - Frontend development (HTML + CSS)
         - Backend development (Node.js)
-
+- ### 🌳 I’m beginner with Java 
+     - with GUI implementation 
+     - Standard Architecture (w/ DTO, DAO, and service layers)
+     - MVC Architecture 
 
 # DBMS Experience
 - 🌱 MySQL for Relational DBMS take it or leave it
         - Used JDBC to connect java project to database 
         - Practiced with SQL Island 
+        - Follows database normalization 1NF - 2NF - 3NF 
         
 
 
 # Future Works
 - 🌱 Will soon be learning React Framework
 - 🌱 will soon be working on second version of personal website w/ react
-- 🌱 will be making copy pasta games using JavaScript for practice
-
+- 🌱 Will soon be learning MySQL DB setup with server setup && firewalls 
+- 🌱 Will soon be learning networking to work with servers
+- 🌱 Will be learning TailWind CSS library for designs
 
 # In Progress 
-- 🌱 Portfolio website in the works
-- 🌱 I'm currently learning CSS (Will include bootstrap library)
-- 🌱 I'm finishing up with learning HTML
-- 🌱 I'm currently learning SQL (with server setup && firewalls)
-- 🌱 Will soon be learning networking to work with servers
+- 🌱 I'm currently making static games using HTML + CSS + JS. 
+
 
 
 # Used Languages
@@ -66,6 +64,7 @@
      - basic webdev
         - Frontend development
         - Backend development
+        - Created basic Flappy Bird clone
 - 🌳 I'm beginner with C 
      - includes folder handling and file manipulation
 - 🌱 I’m currently a beginner in C++
