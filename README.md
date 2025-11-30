@@ -128,6 +128,7 @@ This table is from chatGPT used to track my progress. It's not comments from act
 - 🌱 I’m currently a beginner in C++
      - Syntax + Logic
 # Summary
+- [Go back to Top](#table-of-contents)
 ### General: 
 Beginner at deciding what tech stack should be used for specific projects. Comfortable with larger projects that require multiple layers for frontend(HTML, CSS, or JavaFX) or backend (Data Transfer Objects, Data Access Objects, Service) and Resources folder for organization. As well as the painstaking task of built in test cases (test folder) 
 
