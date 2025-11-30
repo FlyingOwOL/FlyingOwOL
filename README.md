@@ -77,6 +77,7 @@
 - 🌱 I'm currently making static games using HTML + CSS + JS. 
 
 # Skill Table
+- [Go back to Top](#table-of-contents)
 This table is from chatGPT used to track my progress. It's not comments from actual people.
 | Category                       | Level                 | AI comments                                                         |
 | ------------------------------ | --------------------- | ------------------------------------------------------------------- |
@@ -90,6 +91,7 @@ This table is from chatGPT used to track my progress. It's not comments from act
 | **Version Control**            | Early Intermediate    | Branching + multi-dev workflow                                      |
 | **DevOps & Networking**        | Beginner (future)     | haven’t learned it yet but it’s on your path                        |
 # Used Languages
+- [Go back to Top](#table-of-contents)
 - 🌳 Java
      - with GUI implementation 
      - Standard Architecture: 
