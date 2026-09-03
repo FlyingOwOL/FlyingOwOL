@@ -1,152 +1,19 @@
-- 👋 Hi, I’m @FlyingOwOL
-- 💞️ I'm looking for a energydrink sponsorship **please**
-- 📫 How to reach me: *Redacted*
-- 😄 Pronouns: *Redacted*
-- ⚡ Fun fact: *Redacted*
+# 💫 About Me:
+The silliest struct QwQ
 
-```
- 0. If it looks like shit, the design is ass. 
- 1. If I like your programming style I'm copying you, because I accept you're better.
- 2. If I'm stuck with a problem, I'm going to sleep until the solution comes out.
-```
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=FlyingOwOL&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# Table of Contents
-- [Commonly Used Languages](#commonly-used-languages)
-- [DBMS Experience](#dbms-experience)
-- [Future Works](#future-works)
-- [In Progress](#in-progress)
-- [Skill Table](#skill-table)
-- [Used Languages](#used-languages)
-- [Summary](#summary)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uvzGzt7NrP) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-mark-lester-sy-23958b361/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kwonchieowls_struct) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kwonchieowl) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lessruri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kwonchieowls-struct) 
 
+# 💻 Tech Stack:        
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
+  ## 💰 You can help me by Donating
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/KwonchieOwl) 
 
-
-
-# Commonly Used Languages
-- ### 🌳 I’m beginner with JavaScript 
-     - with clasp && GoogleAppScript
-        - SpreadSheetAPP
-          - reading/writing into cells
-          - remove/add/hide/unhide columns or rows (col/row manipulation)
-          - cell range to PDF conversion (using async and PDF library)
-        - DriveAPP
-          - read/write files into specific folders
-        - DocumentAPP
-          - read/write
-     - basic webdev
-        - Standard Root Architecture (w/ layers): 
-          - DTO for business logic
-          - DAO for interaction with database
-          - service for middleman betweent frontend and back
-          - resources for general designs
-        - Frontend development (HTML + CSS)
-        - Backend development (Node.js)
-- ### 🌳 I’m beginner with Java 
-     - with GUI implementation 
-     - Standard Architecture: 
-          - Model for object representation
-          - Controller for frontend and service layer coordination
-          - DTO for business logic
-          - DAO for interaction with database
-          - service for middleman between frontend and back
-          - resources for general designs
-     - MVC Architecture 
-          - Model: object representation
-          - View: only graphics
-          - Controller: interaction of graphics + computations with model
-
-# DBMS Experience
-- 🌱 MySQL for Relational DBMS take it or leave it
-        - Used JDBC to connect java project to database 
-        - Practiced with SQL Island 
-        - Follows database normalization 1NF - 2NF - 3NF 
-        
-
-
-# Future Works
-(Note: these are learned mainly on YouTube, AI, or other online resources with the occasional learned through lectures)
-- 🌱 Will soon be learning React Framework
-- 🌱 will soon be working on second version of personal website w/ react
-- 🌱 Will soon be learning MySQL DB setup with server setup && firewalls 
-- 🌱 Will soon be learning networking to work with servers
-- 🌱 Will be learning TailWind CSS library for designs
-- 🌱 Will soon be learning docker to deal with working with different OS (also to avoid "it works on my machine" talk)
-
-# In Progress 
-- 🌱 I'm currently making static games using HTML + CSS + JS. 
-
-# Skill Table
-- [Go back to Top](#table-of-contents) <br>
-This table is from chatGPT used to track my progress. It's not comments from actual people. <br>
-
-| Category                       | Level                 | AI comments                                                         |
-| ------------------------------ | --------------------- | ------------------------------------------------------------------- |
-| **JavaScript**                 | Early Intermediate    | architecture + API integrations                                     |
-| **Java**                       | Early Intermediate    | Good understanding of MVC, layers, GUIs, JDBC                       |
-| **SQL + JDBC**                 | Beginner–Intermediate | Real project usage, normalization is strong                         |
-| **C**                          | Beginner              | Syntax + file handling                                              |
-| **C++**                        | Beginner              | Early-stage syntax only                                             |
-| **Project Architecture**       | Intermediate          | Strongest area                                                      |
-| **Refactoring & Code Reading** | Early Intermediate    | confidence in cleaning up code                                      |
-| **Version Control**            | Early Intermediate    | Branching + multi-dev workflow                                      |
-| **DevOps & Networking**        | Beginner (future)     | haven’t learned it yet but it’s on your path                        |
-# Used Languages
-- [Go back to Top](#table-of-contents) <br>
-- 🌳 Java
-     - with GUI implementation 
-     - Standard Architecture: 
-          - Model for object representation
-          - Controller for frontend and service layer coordination
-          - DTO for business logic
-          - DAO for interaction with database
-          - service for middleman between frontend and back
-          - resources for general designs
-     - MVC Architecture 
-          - Model: object representation
-          - View: only graphics
-          - Controller: interaction of graphics + computations with model
-- 🌳 JavaScript
-     - with clasp && GoogleAppScript
-        - SpreadSheetAPP
-          - reading/writing into cells
-          - remove/add/hide/unhide columns or rows (col/row manipulation)
-          - cell range to PDF conversion (using async and PDF library)
-        - DriveAPP
-          - read/write files into specific folders
-        - DocumentAPP
-          - read/write
-     - basic webdev
-        - Standard Root Architecture (w/ layers): 
-          - DTO for business logic
-          - DAO for interaction with database
-          - service for middleman betweent frontend and back
-          - resources for general designs
-        - Frontend development (HTML + CSS)
-        - Backend development (Node.js)
-        - Created FlappyBird clone
-          - w/ multidirectional controls and chance of falling objects
-- 🌳 I'm beginner with C 
-     - includes folder handling and file manipulation
-- 🌱 I’m currently a beginner in C++
-     - Syntax + Logic
-# Summary
-- [Go back to Top](#table-of-contents) <br>
-### General: 
-Beginner at deciding what tech stack should be used for specific projects. Comfortable with larger projects that require multiple layers for frontend(HTML, CSS, or JavaFX) or backend (Data Transfer Objects, Data Access Objects, Service) and Resources folder for organization. As well as the painstaking task of built in test cases (test folder) 
-
-### Project Control: 
-Uses Github branches for projects requiring multiple people (worked with max of 3 other people). Familiar with github version control to go back to previous working version of projects. 
-
-### Projects: 
-Uses google app script to automate basic form inputs on google spreadsheets. Familiar with Google API services on Google App Script such as: SpreadSheetAPP, DriveApp, DocumentApp, HTML webpages, Library creation, and document reader/writers (PDF creation, JSON creation).
-
-Can understand code enough to refactor from multiple indentations reduced to less indentations or creating functions to store repetitive logic (applying DRY - Don't Repeat Yourself).
-
-### About AI Usage: 
-Sometimes vibe codes (with supervision of AI's outputs). If learning a new language, will ask AI to retrieve the appropriate token/syntax or library that I need for a specific project or ask if previous logic from used languages will also apply to current PL. Copy pastes this README to AI to inquire about current progress in programming skill. 
-
-<!---
-FlyingOwOL/FlyingOwOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
