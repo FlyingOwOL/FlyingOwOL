@@ -3,11 +3,11 @@ The silliest struct QwQ
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-<img src="https://giffiles.alphacoders.com/222/222808.gif" width="25%"><br/>
+<img src="https://giffiles.alphacoders.com/222/222808.gif" width="22%"><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<img src="https://upload-os-bbs.hoyolab.com/upload/2023/02/23/123699432/e6edb7bd47a0f5d7693e6ae46d7b69b4_788151067391010913.gif" width = "24%"><br/>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2023/02/23/123699432/e6edb7bd47a0f5d7693e6ae46d7b69b4_788151067391010913.gif" width = "20%"><br/>
 ![](https://streak-stats.demolab.com/?user=FlyingOwOL&theme=dark&hide_border=false)
-<img src="https://upload-os-bbs.hoyolab.com/upload/2021/02/25/19351843/fc2c181934cb9ff41231138834f5c5bd_7775333922019361408.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70" width="22%"><br/>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2021/02/25/19351843/fc2c181934cb9ff41231138834f5c5bd_7775333922019361408.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70" width="18%"><br/>
 
 
 ## 🌐 Socials:
