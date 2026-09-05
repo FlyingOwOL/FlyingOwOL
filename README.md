@@ -3,7 +3,7 @@ The silliest struct QwQ
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-<video src="https://upload-os-bbs.hoyolab.com/upload/2023/02/23/123699432/e6edb7bd47a0f5d7693e6ae46d7b69b4_788151067391010913.gif" width = "25%"><br/>
+<img src="https://upload-os-bbs.hoyolab.com/upload/2023/02/23/123699432/e6edb7bd47a0f5d7693e6ae46d7b69b4_788151067391010913.gif" width = "25%"><br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=FlyingOwOL&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://streak-stats.demolab.com/?user=FlyingOwOL&theme=dark&hide_border=false)<br/>
 
